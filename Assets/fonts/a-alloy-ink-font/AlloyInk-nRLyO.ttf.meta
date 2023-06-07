@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: fde9ea13b7e90e746a5ee2e01407aab0
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - a Alloy Ink
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 9c91a50fdee6c1b41a8a72b3e12e468c, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
